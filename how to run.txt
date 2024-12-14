@@ -1,0 +1,9 @@
+Step1: open cmd
+Step2: D:
+Step3: cd D:\Online Election System
+Step4: venv\Scripts\activate
+Step5: python manage.py runserver
+Step6: open link http://127.0.0.1:8000/index.html
+
+admin username & password both are admin
+
